@@ -26,18 +26,18 @@ Currently, I'm getting my hands dirty in exploring the domain and industry flows
 
 
 ## 🛠️ My favorite tools
-<a href=""><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform&logoColor=625dee"/></a>
-<a href=""><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/></a>
-<a href=""><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Terraform-white?style=for-the-badge&logo=terraform&logoColor=625dee"/></a>
+<a><img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/></a>
 
 ### 👨‍💻 Programming languages
 
