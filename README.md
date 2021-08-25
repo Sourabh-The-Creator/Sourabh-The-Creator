@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20and%20Cloud%20Engineer;Self-taught%20Programmer;Always%20learning%20new%20things&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href=""><img src="https://readme-typing-svg.herokuapp.com/?lines=Aspiring%20DevOps%20and%20Cloud%20Engineer;Self-taught%20Programmer;Always%20learning%20new%20things&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
@@ -66,14 +66,14 @@ Currently, I'm getting my hands dirty in exploring the domain and industry flows
 ## 📊 Github stats
 <p>
   <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sourabh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sourabh-The-Creator&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400px" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sourabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-The-Creator&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="327px" height="196px"/></a>
+    <a><img alt="Sourabh's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Sourabh-The-Creator&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400px" height="192px"/></a>
+  <a><img alt="Sourabh's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourabh-The-Creator&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="327px" height="196px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
 ## ⚡ Recent GitHub Activity
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sourabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sourabh-The-Creator&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a><img alt="Sourabh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Sourabh-The-Creator&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
